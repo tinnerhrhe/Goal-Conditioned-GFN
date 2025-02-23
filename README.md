@@ -1,4 +1,4 @@
-# Goal-Condtioned GFlowNets | ICLR 2025
+# Goal-Conditioned GFlowNets | ICLR 2025
 This is the official code of the paper ["Looking Backward: Retrospective Backward Synthesis for Goal-Conditioned GFlowNets"](https://openreview.net/forum?id=fNMKqyvuZT). we propose a novel method called **R**etrospective **B**ackward **S**ynthesis (**RBS**) to synthesize new backward trajectories in goal-conditioned GFlowNets to enrich training trajectories with enhanced *quality* and *diversity*, thereby introducing copious learnable signals for effectively tackling the sparse reward problem.
 ## Environment Configurations
 ```
