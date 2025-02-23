@@ -11,7 +11,7 @@ conda activate gflownet
 cd grid
 python main.py --method db_gfn --batch_size 256 --backward 1 --horizon 32 --seed 1 --exp_name <name> --device cuda:0 --wdb
 ```
-`horizon=32, 64, 128` denotes small, medium and large grid maps respectively.
+`horizon=32, 64, 128` denotes small, medium, and large grid maps respectively.
 - Run RBS GFlowNets on the bit sequence generation tasks using
 ```
 cd gfn_bit
